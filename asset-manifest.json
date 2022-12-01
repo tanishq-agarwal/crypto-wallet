@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crypto-wallet/static/css/main.a1aad540.css",
+    "main.js": "/crypto-wallet/static/js/main.8f49c04a.js",
+    "index.html": "/crypto-wallet/index.html",
+    "main.a1aad540.css.map": "/crypto-wallet/static/css/main.a1aad540.css.map",
+    "main.8f49c04a.js.map": "/crypto-wallet/static/js/main.8f49c04a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1aad540.css",
+    "static/js/main.8f49c04a.js"
+  ]
+}
